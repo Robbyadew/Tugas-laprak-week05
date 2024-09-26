@@ -1,0 +1,6 @@
+Tahun = int(input("Enter a year: "))
+
+if Tahun % 4 == 0:
+    print("adalah tahun kabisat")
+else:
+    print("bukan tahun kabisat")
